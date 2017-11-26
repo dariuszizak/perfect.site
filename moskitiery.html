@@ -1,0 +1,224 @@
+<!doctype html>
+<html amp lang="pl">
+  <head>
+    <title>Perfect - okienne systemy zasłonowe</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+    <link rel="canonical" href="/index.html">
+    <meta charset="utf-8">
+    <!-- Browser Bar Coloration for Chrome, Firefox OS and Opera -->
+    <meta name="theme-color" content="#0052cc">
+    <!-- Browser Bar Coloration for Windows Phone -->
+    <meta name="msapplication-navbutton-color" content="#0052cc">
+    <!-- Browser Bar Coloration for iOS Safari -->
+    <meta name="apple-mobile-web-app-status-bar-style" content="#0052cc">
+    <meta name="viewport" content="width=device-width,minimum-scale=1,initial-scale=1,user-scalable=0">
+    <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
+    <style amp-custom>
+      body {
+        width: auto;
+        margin: 0;
+        padding: 0;
+        font-family: sans-serif;
+      }
+      header {
+        background: #0052cc;
+        color: white;
+        font-size: 2em;
+        text-align: center;
+      }
+      h1 {
+        margin: 0;
+        padding: 0.5em;
+        background: white;
+        box-shadow: 0px 3px 5px grey;
+        text-align: center;
+      }
+      .headerbar {
+        z-index: 999;
+        top: 0;
+        width: 100%;
+        display: flex;
+        align-items: center;
+      }
+      .hamburger {
+        padding-left: 10px;
+      }
+      .site-name {
+        flex: 1;
+        padding-right: 10px;
+        text-align: right;
+      }
+      .sidebar {
+        padding: 10px;
+        margin: 0px;
+      }
+      .sidebar li {
+        list-style: none;
+        margin-bottom: 10px;
+      }
+      .sidebar p {
+        margin: 2px;
+      }
+      .sidebar a {
+        text-decoration: none;
+      }
+      .close-sidebar {
+        font-size: 3em;
+        padding-left: 5px;
+      }
+      .desktop-sidebar {
+        width: 15%;
+        float: left;
+        top: 20px;
+        position: fixed;
+        background-color: black;
+      }
+      .desktop-sidebar li {
+        list-style: none;
+        text-align: center;
+      }
+      .desktop-sidebar a {
+        color: white;
+      }
+      .logo {
+        margin: 3%;
+      }
+      .back2topbtn {
+        position: fixed;
+        bottom: 5%;
+        right: 5%;
+      }
+      h1 {
+        text-align: left;
+      }
+      article, footer {
+        padding: 3%;
+      }
+      footer {
+        background: black;
+      }
+      footer small {
+        color: white;
+        padding: 5px;
+      }
+      #phone-number {
+        text-align: center;
+        font-size: 2em;
+      }
+      @media screen and (min-width: 900px) {
+        header {
+          font-size: 1.5em;
+        }
+        .hamburger {
+          display: none;
+        }
+        .site-name {
+          font-size: 1.8em;
+        }
+        .logo {
+          display: none;
+        }
+        .upper-logo {
+          flex: 0;
+          padding-left: 10px;
+          text-align: left;
+        }
+        .headerbar, article, footer {
+          width: 78%;
+          padding-left: 1%;
+          padding-right: 1%;
+          float: right;
+        }
+      }
+      @media screen and (max-width: 900px) {
+        .upper-logo {
+          display: none;
+        }
+        .desktop-sidebar {
+          display: none;
+        }
+        .logo {
+          text-align: center;
+        }
+      }
+    </style>
+    <script async custom-element="amp-carousel" src="https://cdn.ampproject.org/v0/amp-carousel-0.1.js"></script>
+    <script async src="https://cdn.ampproject.org/v0.js"></script>
+    <script async custom-element="amp-sidebar" src="https://cdn.ampproject.org/v0/amp-sidebar-0.1.js"></script>
+    <script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Open-source framework for publishing content",
+        "datePublished": "2015-10-07T12:02:41Z",
+        "image": [
+          "logo.jpg"
+        ]
+      }
+</script>
+  </head>
+  <body>
+    <header id="headerbar" class="headerbar">
+      <div class="hamburger" role="button" on="tap:sidebar1.toggle" tabindex="0">
+        ☰
+      </div>
+      <div class="upper-logo">
+        <amp-img src="icons/logo.png" alt="Logo" width="280px" height="137px"></amp-img>
+      </div>
+      <div class="site-name">
+        Perfect - okienne systemy zasłonowe
+      </div>
+    </header>
+    <amp-sidebar id="sidebar1" layout="nodisplay" side="left">
+      <div class="close-sidebar" role="button" aria-label="close sidebar" on="tap:sidebar1.toggle" tabindex="0">
+        x
+      </div>
+        <ul class="sidebar">
+          <li><a href="index.html"><amp-img src="icons/home.svg" alt="home" width="50px" height="50px"></amp-img></a></li>
+          <li><a href="zaluzje.html"><amp-img src="icons/zaluzje_small.png" alt="żaluzje" width="50px" height="50px"></amp-img><p></p></a></li>
+          <li><a href="rolety_zewnetrzne.html"><amp-img src="icons/roleta_kaseta_small.png" alt="rolety zewnętrzne" width="50px" height="50px"></amp-img><p></p></a></li>
+          <li><a href="rolety_materialowe.html"><amp-img src="icons/roleta_material_small.png" alt="rolety materiałowe" width="50px" height="47px"></amp-img><p></p></a></li>
+          <li><a href="verticale.html"><amp-img src="icons/verticale_small.png" alt="verticale" width="50px" height="48px"></amp-img><p></p></a></li>
+          <li><a href="moskitiery.html"><amp-img src="icons/mosquito_net_small.png" alt="moskitiery" width="50px" height="41px"></amp-img><p></p></a></li>
+          <li><a href="kontakt.html"><amp-img src="icons/phone2_small.png" alt="kontakt" width="50px" height="42px"></amp-img><p></p></a></li>
+        </ul>
+    </amp-sidebar>
+      <div class="logo">
+        <amp-img src="icons/logo_name.png" alt="Logo" width="309px" height="100px"></amp-img>
+      </div>
+    <aside class="desktop-sidebar">
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="zaluzje.html"><p>żaluzje</p></a></li>
+          <li><a href="rolety_zewnetrzne.html"><p>rolety zewnętrzne</p></a></li>
+          <li><a href="rolety_materialowe.html"><p>rolety materiałowe</p></a></li>
+          <li><a href="verticale.html"><p>verticale</p></a></li>
+          <li><a href="moskitiery.html"><p>moskitiery</p></a></li>
+          <li><a href="kontakt.html"><p>kontakt</p></a></li>
+        </ul>
+      </nav>
+    </aside>
+    <div class="back2topbtn">
+      <a href="#headerbar"><amp-img src="icons/up_circle.svg" alt="go up" width="40px" height="40px"></amp-img></a>
+    </div>
+    <article>
+      <h1>Moskitiery</h1>
+        <ul>
+          <li>Bardzo skutecznie chronią przed natrętnymi owadami</li>
+          <li>Zabezpieczają pomieszczenia przed przenikaniem pyłków roślin oraz kurzu</li>
+          <li>Stosowane na okna oraz drzwi tarasowe</li>
+        </ul>
+      </p>
+      <amp-carousel layout="fixed-height" type="slides" height="360" delay="3000" loop autoplay>
+        <amp-img src="img/P9038833.JPG" alt="moskitiera" width="480px" height="360px"></amp-img>
+        <amp-img src="img/P9038837.JPG" alt="moskitiera" width="480px" height="360px"></amp-img>
+        <amp-img src="img/P9038839.JPG" alt="moskitiera" width="480px" height="360px"></amp-img>
+        <amp-img src="img/P9038841.JPG" alt="moskitiera" width="480px" height="360px"></amp-img>
+      </amp-carousel>
+    </article>
+    <footer>
+        <small>&copy 2017 puph Perfect Marek Izak. Wszystkie prawa zastrzeżone. Kopiowanie i rozpowszechnianie bez zgody puph Perfect Marek Izak zabronione. signal bars graphic by <a href="https://thenounproject.com/prosymbols">tnp_prosymbols</a> from <a href="https://thenounproject.com/">TheNounProject</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a> https://logomakr.com/5ChJef5ChJef</small>
+    </footer>
+  </body>
+</html>

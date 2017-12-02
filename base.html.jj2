@@ -202,8 +202,7 @@
     <div class="back2topbtn">
       <a href="#headerbar"><amp-img src="icons/up_circle.svg" alt="go up" width="40px" height="40px"></amp-img></a>
     </div>
-    {% block content %}
-    {% endblock %}
+    {% block content %}{% endblock %}
     <footer>
         <small>&copy 2017 puph Perfect Marek Izak. Wszystkie prawa zastrzeżone. Kopiowanie i rozpowszechnianie bez zgody puph Perfect Marek Izak zabronione. signal bars graphic by <a href="https://thenounproject.com/prosymbols">tnp_prosymbols</a> from <a href="https://thenounproject.com/">TheNounProject</a> is licensed under <a href="http://creativecommons.org/licenses/by/3.0/" title="Creative Commons BY 3.0">CC BY 3.0</a>. Check out the new logo that I created on <a href="http://logomakr.com" title="Logo Maker">LogoMaker.com</a> https://logomakr.com/5ChJef5ChJef</small>
     </footer>

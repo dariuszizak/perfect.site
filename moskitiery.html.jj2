@@ -1,4 +1,4 @@
-{% extends "base.html" %}
+{% extends "base.html.jj2" %}
 {% block content %}
 <article>
   <h1>Moskitiery</h1>

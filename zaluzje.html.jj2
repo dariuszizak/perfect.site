@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+{% block content %}
+<article>
+  <h1>Żaluzje</h1>
+  <p>
+    Najstarszy, sprawdzony i nadal aktualny system zasłonowy naszych okien.
+    <ul>
+      <li>Najwygodniejsza regulacja dopływu słońca i światła</li>
+      <li>Szeroka gama kolorystyczna</li>
+      <li>Wysoka jakość zastosowanych materiałów zapewnia wieloletnie użytkowanie żaluzji</li>
+    </ul>
+  </p>
+  <amp-carousel layout="fixed-height" type="slides" height="360" delay="3000" loop autoplay>
+    <amp-img src="img/P3047907.JPG" alt="żaluzje aluminiowe" width="480px" height="360px"></amp-img>
+    <amp-img src="img/P3047937.JPG" alt="żaluzje drewniane" width="480px" height="360px"></amp-img>
+    <amp-img src="img/P3047938.JPG" alt="żaluzje drewniane" width="480px" height="360px"></amp-img>
+    <amp-img src="img/P9038820.JPG" alt="żaluzje aluminiowe" width="480px" height="360px"></amp-img>
+  </amp-carousel>
+</article>
+{% endblock %}

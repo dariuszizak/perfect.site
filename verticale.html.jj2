@@ -1,0 +1,22 @@
+{% extends "base.html" %}
+{% block content %}
+<article>
+  <h1>Verticale</h1>
+  <p>
+    Nadal niezastąpione w pomieszczeniach biurowych.
+    <ul>
+      <li>Szeroka regulacja dopływu światła poprzez dowolne ustawienie taśm</li>
+      <li>Verticale można również zastosować jako element dzielący pomieszczenie lub parawan</li>
+      <li>Dobrej jakości verticale nadają się do wielokrotnego prania, którą to usługę również świadczy nasza firma</li>
+    </ul>
+  </p>
+  <amp-carousel layout="fixed-height" type="slides" height="360" delay="3000" loop autoplay>
+    <amp-img src="img/P1125303.JPG" alt="verticale" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233639.JPG" alt="verticale" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233643.JPG" alt="verticale" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233667.JPG" alt="verticale" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233669.JPG" alt="verticale" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233676.JPG" alt="verticale" width="480px" height="360px"></amp-img>
+  </amp-carousel>
+</article>
+{% endblock %}

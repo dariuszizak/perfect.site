@@ -1,0 +1,24 @@
+{% extends "base.html" %}
+{% block content %}
+<article>
+  <h1>Rolety materiałowe</h1>
+  <p>
+    Pozwalają na ciekawą aranżację wnętrz.
+    <ul>
+      <li>Duża estetyka produktu.</li>
+      <li>Szeroka paleta propozycji materiałów i kolorów.</li>
+      <li>Dzięki prowadnicom bocznym i szczelnym kasetom można ograniczyć do minimum przenikanie światła słonecznego.</li>
+      <li>Płynna regulacja pozwala zasłonić okno na dowolnej wysokości.</li>
+    </ul>
+  </p>
+  <amp-carousel layout="fixed-height" type="slides" height="360" delay="3000" loop autoplay>
+    <amp-img src="img/P3047941.JPG" alt="roleta materiałowa" width="480px" height="360px"></amp-img>
+    <amp-img src="img/P3047945.JPG" alt="roleta materiałowa" width="480px" height="360px"></amp-img>
+    <amp-img src="img/P3047951.JPG" alt="roleta materiałowa" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233626.JPG" alt="roleta materiałowa" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233634.JPG" alt="roleta materiałowa" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233638.JPG" alt="roleta materiałowa" width="480px" height="360px"></amp-img>
+    <amp-img src="img/PB233671.JPG" alt="roleta materiałowa" width="480px" height="360px"></amp-img>
+  </amp-carousel>
+</article>
+{% endblock %}

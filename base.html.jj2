@@ -148,12 +148,16 @@
     <script type="application/ld+json">
       {
         "@context": "http://schema.org",
-        "@type": "NewsArticle",
-        "headline": "Open-source framework for publishing content",
-        "datePublished": "2015-10-07T12:02:41Z",
+        "@type": "Organization",
+        "headline": "Okienne systemy zasłonowe",
         "image": [
-          "logo.jpg"
+          "icons/logo.png"
         ]
+        "contactPoint": {
+          "@type": "ContactPoint",
+          "telephone": "+48 501-175-813",
+          "contactType": "Customer service"
+        }
       }
 </script>
   </head>

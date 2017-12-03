@@ -148,16 +148,41 @@
     <script type="application/ld+json">
       {
         "@context": "http://schema.org",
-        "@type": "Organization",
-        "headline": "Okienne systemy zasłonowe",
+        "@type": "LocalBusiness",
+        "@id": "http://www.rolety-perfect.pl",
+        "name": "puph Perfect - okienne systemy zasłonowe",
         "image": [
-          "icons/logo.png"
-        ]
-        "contactPoint": {
-          "@type": "ContactPoint",
-          "telephone": "+48 501-175-813",
-          "contactType": "Customer service"
-        }
+          "http://www.rolety-perfect.pl/icons/logo.png",
+          "http://www.rolety-perfect.pl/img/P3047907.JPG",
+          "http://www.rolety-perfect.pl/img/P3047934.JPG",
+          "http://www.rolety-perfect.pl/img/P3057962.JPG",
+          "http://www.rolety-perfect.pl/img/PB233638.JPG",
+          "http://www.rolety-perfect.pl/img/PB233643.JPG"
+        ],
+        "address": {
+          "streetAddress": "PCK 10",
+          "addressLocality": "Pruszków",
+          "addressRegion": "MAZ",
+          "postalCode": "50-803",
+          "addressCountry": "PL"
+        },
+        "geo":{
+          "@type": "GeoCoordinates",
+          "latitude": 52.1612,
+          "longitude": 20.820887
+        },
+        "openingHoursSpecification": {
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday",
+            "Saturday",
+            "Sunday"
+          ]
+        },
+        "telephone": "+48501175813"
       }
 </script>
   </head>

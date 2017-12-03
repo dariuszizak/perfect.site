@@ -1,4 +1,5 @@
 {% extends "base.html.jj2" %}
+{% block title %}Verticale{% endblock %}
 {% block content %}
 <article>
   <h1>Verticale</h1>

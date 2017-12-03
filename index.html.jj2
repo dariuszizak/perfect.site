@@ -1,4 +1,5 @@
 {% extends "base.html.jj2" %}
+{% block title %}Perfect - okienne systemy zasłonowe{% endblock %}
 {% block content %}
 <article>
   <h1>Firma Perfect - nasza oferta</h1>

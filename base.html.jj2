@@ -1,7 +1,7 @@
 <!doctype html>
 <html amp lang="pl">
   <head>
-    <title>Perfect - okienne systemy zasłonowe</title>
+    <title>{% block title %}{% endblock %}</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
     <link rel="canonical" href="/index.html">
     <meta charset="utf-8">

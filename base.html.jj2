@@ -103,8 +103,15 @@
         padding: 5px;
       }
       #phone-number {
+        margin-left: 33%;
+        margin-right: 33%;
         text-align: center;
         font-size: 2em;
+        background-color: black;
+        border-radius: 10px;
+      }
+      #phone-number a {
+        color: white;
       }
       @media screen and (min-width: 900px) {
         header {

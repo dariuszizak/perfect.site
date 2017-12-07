@@ -137,6 +137,9 @@
           padding-right: 1%;
           float: right;
         }
+        #phone-number {
+          margin-right: 10%;
+        }
       }
       @media screen and (max-width: 900px) {
         .upper-logo {
@@ -147,6 +150,10 @@
         }
         .logo {
           text-align: center;
+        }
+        #phone-number {
+          margin-left: 13%;
+          margin-right: 13%;
         }
       }
     </style>

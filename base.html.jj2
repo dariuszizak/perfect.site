@@ -3,7 +3,7 @@
   <head>
     <title>{% block title %}{% endblock %}</title>
     <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
-    <link rel="canonical" href="/index.html">
+    <link rel="canonical" href="/{% block canonical_link %}{% endblock%}">
     <meta charset="utf-8">
     <!-- Browser Bar Coloration for Chrome, Firefox OS and Opera -->
     <meta name="theme-color" content="#0052cc">

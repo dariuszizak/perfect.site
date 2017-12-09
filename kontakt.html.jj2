@@ -1,5 +1,6 @@
 {% extends "base.html.jj2" %}
 {% block title %}Kontakt{% endblock %}
+{% block canonical_link %}kontakt.html{% endblock %}
 {% block content %}
 <article>
   <h1>Kontakt</h1>

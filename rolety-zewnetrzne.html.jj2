@@ -1,5 +1,6 @@
 {% extends "base.html.jj2" %}
 {% block title %}Rolety zewnętrzne{% endblock %}
+{% block canonical_link %}rolety-zewnetrzne.html{% endblock %}
 {% block content %}
 <article>
   <h1>Rolety zewnętrzne</h1>

@@ -1,5 +1,6 @@
 {% extends "base.html.jj2" %}
 {% block title %}Żaluzje{% endblock %}
+{% block canonical_link %}zaluzje.html{% endblock %}
 {% block content %}
 <article>
   <h1>Żaluzje</h1>

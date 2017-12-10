@@ -1,6 +1,7 @@
 {% extends "base.html.jj2" %}
 {% block title %}Verticale{% endblock %}
 {% block canonical_link %}verticale.html{% endblock %}
+{% block keywords %}verticale, pranie verticali{% endblock %}
 {% block content %}
 <article>
   <h1>Verticale</h1>

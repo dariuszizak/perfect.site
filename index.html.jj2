@@ -1,6 +1,7 @@
 {% extends "base.html.jj2" %}
 {% block title %}Perfect - okienne systemy zasłonowe{% endblock %}
 {% block canonical_link %}index.html{% endblock %}
+{% block keywords %}rolety, żaluzje, verticale, moskitiery, pranie verticali{% endblock %}
 {% block content %}
 <article>
   <h1>Firma Perfect - nasza oferta</h1>

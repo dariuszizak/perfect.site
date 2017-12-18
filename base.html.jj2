@@ -218,6 +218,7 @@
         }
       }
       </script>
+    </amp-analytics>
     <amp-analytics type="googleanalytics" id="analytics-clicknav">
       <script type="application/json">
       {
@@ -238,6 +239,25 @@
       }
       </script>
     </amp-analytics>
+    <amp-analytics type="googleanalytics" id="analytics-clicknav">
+      <script type="application/json">
+      {
+        "vars": {
+          "account": "UA-110993332-1"
+        },
+        "triggers": {
+          "trackClickOnHeader" : {
+            "on": "click",
+            "selector": "#desktop-sidebar",
+            "request": "event",
+            "vars": {
+              "eventCategory": "ui-components",
+              "eventAction": "header-click"
+            }
+          }
+        }
+      }
+      </script>
     </amp-analytics>
     <header id="headerbar" class="headerbar">
       <div class="hamburger" role="button" on="tap:sidebar1.toggle" tabindex="0">
@@ -267,7 +287,7 @@
       <div class="logo">
         <amp-img src="icons/logo_name.png" alt="Logo" width="309px" height="100px"></amp-img>
       </div>
-    <aside class="desktop-sidebar">
+    <aside class="desktop-sidebar", id="desktop-sidebar">
       <nav>
         <ul>
           <li><a href="index.html">Home</a></li>

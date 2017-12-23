@@ -287,7 +287,7 @@
       <div class="logo">
         <amp-img src="icons/logo_name.png" alt="Logo" width="309px" height="100px"></amp-img>
       </div>
-    <aside class="desktop-sidebar", id="desktop-sidebar">
+    <aside class="desktop-sidebar" id="desktop-sidebar">
       <nav>
         <ul>
           <li><a href="index.html">Home</a></li>

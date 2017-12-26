@@ -4,23 +4,58 @@
 {% block keywords %}rolety, żaluzje, verticale, moskitiery, pranie verticali{% endblock %}
 {% block content %}
 <article>
-  <h1>Firma Perfect - nasza oferta</h1>
-  <p>
-    Jesteśmy firmą rodzinną. Świadczymy usługi od 1992 roku.
-    Rzetelność to nasza wizytówka. Pomagamy i doradzamy klientowi przy wyborze asortymentu i kolorystyki.
-    Do każdego zamówienia podchodzimy indywidualnie.
-    Każdy produkt (żaluzje, rolety, verticale, moskitiery, rolety zewnętrzne) wykonywane są “pod wymiar”- dla każdego klienta.
-    Na podstawie obserwacji i doświadczeń zdobywanych przez ponad 25 lat, zorientowaliśmy się, że klienci przede wszystkim poszukują  praktycznych, trwałych, solidnych i sprawdzonych rozwiązań jakimi nadal pozostają rolety, żaluzje i verticale.
-    Na nasze wyroby udzielamy gwarancji 36 m-cy oraz zapewniamy serwis pogwarancyjny.
-    <p>Nasza oferta to:</p>
-    <ul>
-      <li>Żaluzje poziome aluminiowe i drewniane</li>
-      <li>Rolety materiałowe: wolnowiszące, w kasetach, dachowe</li>
-      <li>Verticale (oraz pranie verticali)</li>
-      <li>Rolety zewnętrzne</li>
-      <li>Moskitiery</li>
-    </ul>
-  </p>
+  <h1>Okienne systemy zasłonowe</h1>
+    <p>
+      Trudno wyobrazić sobie umeblowane, w pełni urządzone i zamieszkałe wnętrze domu czy mieszkania  bez jakiekolwiek przesłonięcia okien. Niezależnie od konkretnego rozwiązania, niemal każdy z nas potrzebuje osłony przed palącym słońcem i ciekawskimi oczami. Wiele osób przykłada dużo starań do aranżacji wnętrza według swoich gustów i potrzeb. Mamy nadzieję, że nasze usługi spełnią Państwa oczekiwania.
+    </p>
+    <h2>Rolety materiałowe</h2>
+      <p>
+        Rolety materiałowe to rodzaj zasłon okiennych które nie tylko chronią przed światłem słonecznym, lecz także pełnią rolę dekoracyjną. Powierzchnia zasłoniętej rolety zakrywa całą powierzchnię okna, stanowi więc dobrze widoczny element wystroju wnętrza. Rolety pozwalają na całkowite odsłonięcie szyby, wpuszczając całe dostępne światło. Ze względu na budowę i położenie okna oraz konkretną funkcjonalność rolety, wyróżnia się następujące rodzaje:
+      </p>
+      <h3>Rolety wolnowiszące</h3>
+        <p>
+          Roleta wolnowisząca jest najprostszym typem rolety materiałowej. Można ją zamontować bezpośrednio na skrzydle okiennym lub zakryć całą wnękę okna. Roleta wolnowisząca sterowana jest mechanizmem łańcuszkowym, który pozwala ustawić roletę w dowolnym położeniu.
+        </p>
+      <h3>Rolety w kasetach</h3>
+        <p>
+          Roleta  w kasecie jest bardziej wyrafinowanym rodzajem rolet materiałowych. Wałek na który nawinięty jest materiał schowany jest w estetycznej aluminiowej kasecie. Brzegi rolety zabezpieczone są specjalnymi prowadnicami. Rolety w kasetach montuje się na każdym skrzydle okiennym z osobna. Zarówno kasety jak i prowadnice występują w różnych kolorach, aby pasowały do każdego rodzaju stolarki okiennej. Rolety materiałowe w kasetach sterowane są mechanizmem łańcuszkowym i można je opuścić na dowolną wysokość. W odróżnieniu od rolet wolnowiszących dzięki prowadnicom bocznym nie występuje prześwit między materiałem rolety a ramą okna.
+        </p>
+      <h3>Rolety dachowe</h3>
+        <p>
+          Okna dachowe to obowiązkowy element poddasza. Pozostawienie okien dachowych bez osłony przed promieniami słonecznymi naraża wnętrze na gwałtowne zmiany temperatury mimo najlepszej izolacji samego dachu i ścian. Na szczęście, na popularne “Veluxy” również można założyć rolety. Jest to lekka, kompaktowa konstrukcja. Regulacja przesłonięcia takiej rolety jest prosta i niezawodna. Mechanizm sprężynowy utrzymujący roletę w napięciu jest zamknięty wewnątrz niewielkiej obudowy, dzięki czemu z okna strychowego nie zwisa łańcuszek, a dodatkowa zabudowa okna jest ograniczona do minimum.
+        </p>
+    <h2>Rolety zewnętrzne</h2>
+      <p>
+        Rolety zewnętrzne nie są bezpośrednio związane z przesłanianiem okien,ale można je też do tego wykorzystywać. Stanowią część zewnętrznej elewacji lub sztywnej przegrody dzielącej pomieszczenia. Mocny i lekki jednocześnie płaszcz rolet z aluminiowego profilu oraz możliwość stosowania zamka, pozwala na zamknięcie przejścia dla osób niepożądanych. Rolety zewnętrzne antywłamaniowe cechuje specjalna, wzmocniona konstrukcja, znacząco opóźniająca sforsowanie takiej rolety przez włamywacza.
+      </p>
+      <h2>Żaluzje</h2>
+        <p>
+          Regulacja kąta ułożenia listewek żaluzji stanowi 180 stopni, a całą żaluzję można podciągać i opuszczać podobnie jak roletę. Dzięki temu, żaluzje pozwalają na najwięcej w opcji regulacji dopływu światła słonecznego. Osoby poszukujące walorów estetycznych, powinny zwrócić uwagę na żaluzje drewniane.
+        </p>
+        <h3>Żaluzje aluminiowe</h3>
+          <p>
+            Typowe żaluzje są zbudowane z aluminiowych szczebelków. Występują w bardzo wielu kolorach co pozwala na dowolne dopasowanie ich do kolorystyki wystroju i charakteru wnętrza. Zastosowany w żaluzji mechanizm ślimakowy pozwala na ustawienie szczebelków pod dowolnym kątem. Żaluzje w jasnych kolorach stanowią najskuteczniejszą barierę przed nagrzewaniem pomieszczeń.
+          </p>
+        <h3>Żaluzje drewniane</h3>
+          <p>
+            Żaluzje drewniane swą budową i działaniem przypominają żaluzje aluminiowe ale szczebelki tych żaluzji wykonane są z bardzo lekkiego drewna. Jest to bardziej ekskluzywny produkt, który sprawia, że pomieszczenie wygląda elegancko. Skutecznie dekorują pomieszczenie jak gustownie dobrane meble. Żaluzje te występują w różnych odcieniach drewna - od jasnego do ciemnego.
+          </p>
+      <h2>Verticale</h2>
+        <p>
+          Verticale spotykane są głównie przestrzeniach biurowych. Ich główną zaletą jest możliwość wykonania verticali niemal w dowolnych wymiarach. Dzięki temu, verticale są najlepszym - często jedynym możliwym - rozwiązaniem do zasłonięcia dużych szklanych powierzchni w biurowcach. Z powodzeniem sprawdzą się również jako przepierzenie sal konferencyjnych, seminaryjnych, ćwiczeniowych. Bywają stosowane również w mieszkaniach prywatnych.
+        </p>
+        <h3>Pranie verticali</h3>
+          <p>
+            Pranie verticali jest niszową usługą którą świadczy niewiele firm. Prawidłowe i skuteczne wykonanie tej usługi wbrew pozorom wymaga dużego doświadczenia, sprzętu, oraz dużego zaplecza do suszenia verticali. Często spotykamy się z błędnym przekonaniem,że verticale można prać w zwykłej pralce. Jest to nieprawda. W ten sposób zniszczymy verticale nieodwracalnie. Dwudziestokilkuletnie doświadczenie nauczyło nas właściwie wykonywać tę usługę.
+          </p>
+      <h2>Moskitiery</h2>
+        <p>
+          Jedynym w pełni skutecznym sposobem na dom bez uporczywych owadów to nie wpuścić ich do środka. W tej roli świetnie sprawdzą się moskitiery. Stanowią szczelną zasłonę przed owadami ale nie przed światłem! Nie psują widoku za oknem, a pozwalają na otwarcie okna na pełną szerokość bez towarzystwa komarów,much i innych insektów. Dzięki moskitierom, nie trzeba stosować środków chemicznych, które nie są obojętne dla zdrowia. Nasze moskitiery mają mocowanie mechaniczne lub magnetyczne. Mocowanie magnetyczne pozwala na całkowicie samodzielny montaż i demontaż bez użycia jakichkolwiek narzędzi. Nasze moskitiery można mocować na typowe okna oraz drzwi balkonowe i tarasowe.
+        </p>
+      <h2>O nas</h2>
+        <p>
+          Jesteśmy firmą rodzinną. Świadczymy usługi od 1992r. Rzetelność to nasza wizytówka. Pomagamy i doradzamy klientowi przy wyborze asortymentu i kolorystyki. Do każdego zamówienia podchodzimy indywidualnie. Każdy produkt (żaluzje, rolety, verticale, moskitiery, rolety zewnętrzne) wykonywane są “pod wymiar”- dla każdego klienta. Na podstawie obserwacji i doświadczeń zdobywanych przez ponad 25 lat, zorientowaliśmy się, że klienci przede wszystkim poszukują praktycznych, trwałych, solidnych i sprawdzonych rozwiązań jakimi nadal pozostają rolety, żaluzje i verticale. Na nasze wyroby udzielamy gwarancji 36 m-cy oraz zapewniamy serwis pogwarancyjny.
+        </p>
   <amp-carousel layout="fixed-height" type="slides" height="360" delay="3000" loop autoplay>
     <amp-img src="img/P3047907.JPG" alt="żaluzje aluminiowe" width="480px" height="360px"></amp-img>
     <amp-img src="img/P3047934.JPG" alt="żaluzje aluminiowe" width="480px" height="360px"></amp-img>

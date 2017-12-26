@@ -1,5 +1,5 @@
 {% extends "base.html.jj2" %}
-{% block title %}Perfect - okienne systemy zasłonowe{% endblock %}
+{% block title %}Perfect - rolety, żaluzje, verticale, moskitiery - okienne systemy zasłonowe na wymiar{% endblock %}
 {% block canonical_link %}index.html{% endblock %}
 {% block keywords %}rolety, żaluzje, verticale, moskitiery, pranie verticali{% endblock %}
 {% block content %}

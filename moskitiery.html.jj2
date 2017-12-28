@@ -5,12 +5,14 @@
 {% block content %}
 <article>
   <h1>Moskitiery</h1>
-    <ul>
-      <li>Bardzo skutecznie chronią przed natrętnymi owadami</li>
-      <li>Zabezpieczają pomieszczenia przed przenikaniem pyłków roślin oraz kurzu</li>
-      <li>Stosowane na okna oraz drzwi tarasowe</li>
-    </ul>
-  </p>
+    <p>
+      Bardzo skutecznie chronią przed natrętnymi owadami. Zabezpieczają pomieszczenia przed przenikaniem pyłków roślin oraz kurzu.Stosowane na okna oraz drzwi tarasowe
+    </p>
+    <h2>Moskitiery-rodzaje</h2>
+    <p>
+      Moskitiery okienne na typowe okna mocowane są przy pomocy zaczepów, lub magnesów neodymowych. Obydwa sposoby są bardzo proste w obsłudze przez użytkownika. Moskitiery na drzwi balkonowe i tarasowe wykonane są z dużo masywniejszych profili. Wyposażone są w tzw. zawiasy samodomykające. Oznacza to, że nie można zostawić takiej moskitiery otwartej przez zapomnienie lub nieuwagę. Profile aluminiowe do budowy moskitier występują w kolorze białym, brązowym lub drewnopodobne.
+
+    </p>
   <amp-carousel layout="fixed-height" type="slides" height="360" delay="3000" loop autoplay>
     <amp-img src="img/P3047934.JPG" alt="moskitiera" width="480px" height="360px"></amp-img>
     <amp-img src="img/P9038841.JPG" alt="moskitiera" width="480px" height="360px"></amp-img>

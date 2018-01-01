@@ -38,7 +38,6 @@
       .headerbar {
         z-index: 999;
         top: 0;
-        width: 100%;
         display: flex;
         align-items: center;
       }
@@ -69,11 +68,12 @@
         padding-left: 5px;
       }
       .desktop-sidebar {
-        width: 15%;
+        width: 25%;
         float: left;
         top: 20px;
         position: fixed;
         background-color: black;
+        font-size: 1.1em;
       }
       .desktop-sidebar li {
         list-style: none;
@@ -87,7 +87,7 @@
       }
       .back2topbtn {
         position: fixed;
-        bottom: 5%;
+        bottom: 15%;
         right: 5%;
       }
       h1 {
@@ -114,7 +114,7 @@
       #phone-number a {
         color: white;
       }
-      @media screen and (min-width: 900px) {
+      @media screen and (min-width: 1200px) {
         header {
           font-size: 1.5em;
         }
@@ -133,16 +133,14 @@
           text-align: left;
         }
         .headerbar, article, footer {
-          width: 78%;
-          padding-left: 1%;
-          padding-right: 1%;
-          float: right;
+          margin-left: 30%;
+          margin-right: 10%;
         }
         #phone-number {
           margin-right: 10%;
         }
       }
-      @media screen and (max-width: 900px) {
+      @media screen and (max-width: 1200px) {
         .upper-logo {
           display: none;
         }
